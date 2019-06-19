@@ -1,31 +1,31 @@
 {
-    "ChapterName":"GDG Jalandhar",
-    "ChapterShortDescription":"Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
-    "website":"https://gdgjalandhar.com",
+    "ChapterName":"GDG Kinshasa",
+    "ChapterShortDescription":"Google Developers Group Kinshasa is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
+    "ChapterLongDec":"Google Developer Group Kinshasa is inspired by GTUG/GDG Family . We started our journey in July 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Kinshasa. The technology awareness is main goal for first few years of the group.",
+    "ChapterMeetupLink":"https://www.meetup.com/Meetup-GDG-Kinshasa",
+    "ChapterEmail":"bashizip@gmail.com",
+    "website":"https://gdgkinshasa.com",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterHashTags":["GDGKinshasa","WTMKinshasa","GDG","WTM"],
     "socialLinks":[
         {
             "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/groups/kingtug/",
             "icon" : "fab fa-facebook"
         },
         {
             "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
+            "link" : "https://plus.google.com/u/0/+GdgKinshasaIn/posts",
             "icon" : "fab fa-google-plus"
         },
         {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/gdg-kinshasa",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/Meetup-GDG-Kinshasa/",
             "icon" : "fab fa-meetup"
         }
     ],

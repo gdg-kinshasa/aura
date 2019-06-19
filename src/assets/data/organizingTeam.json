@@ -1,47 +1,21 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
+        "name":"Patrick Bashizi",
         "designation":"Management",
+        "twitter":"https://twitter.com/bashizip",
+        "linkedin":"https://www.linkedin.com/in/patrickbashizi",
+        "github":"https://github.com/bashizip",
+        "profileImage":"bashizip.png",
+        "website":"bashizip.github.io"
+    },
+
+    {
+        "name":"Bruce Lomengo",
+        "designation":"Design & Visuals",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
+        "linkedin":"https://www.linkedin.com/in/bruce-lomengo-16a3b6a5/",
         "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
+        "profileImage":"bruce.jpg",
         "website":""
     }
 ]
